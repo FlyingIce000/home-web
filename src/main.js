@@ -20,5 +20,3 @@ navigator.serviceWorker.addEventListener("controllerchange", () => {
   console.log("站点已更新，刷新后生效");
   ElMessage("站点已更新，刷新后生效");
 });
-
-//123
