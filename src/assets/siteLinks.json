@@ -5,33 +5,13 @@
     "link": "https://myblog.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://myblog.top/"
-  },
-  {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://myblog.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://myblog.top/"
+    "link": "https://y.music.163.com/m/playlist?id=8443294021&userid=1986461146"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://myblog.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://myblog.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://myblog.top/"
+    "name": "AI绘图工具",
+    "link": "https://ai.xxidc.top/"
   }
 ]
